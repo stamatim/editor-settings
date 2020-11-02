@@ -1,0 +1,477 @@
+SESSION: 2020-10-27T20:45:56-05:00 {"source":"LoggingProvider.initialise","message":"{\"repoKey\":null,\"repoHash\":null,\"userId\":\"eb7d37edc33cd3e6012b3043869664e285073ac23d1d4db4eec369bc3ba96cd0\",\"loggedInUserId\":null,\"userOS\":\"win32\",\"extVersion\":\"0.27.5\",\"sessionId\":\"46c7d77b-67bf-4bfd-b549-137bb7b0156a1603849515580\",\"editorVersion\":\"1.50.1\",\"multiRootWorkspace\":false,\"workspaceFoldersCount\":1,\"skippedRegWall\":false,\"fileHash\":\"5b7065e90caf6de092e274e10b664f58997dc1b5cc03a57287a895e0320730d4\",\"filePath\":\"webapp\\\\server\\\\.babelrc\",\"repoUrl\":null}"} 
+ERROR: 2020-10-27T20:45:58-05:00 {"source":"MetadataProvider.getHistoricRepoCommitData","message":". : File X:\\Documents\\WindowsPowerShell\\profile.ps1 cannot be loaded because running scripts is disabled on this \r\nsystem. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.\r\nAt line:1 char:3\r\n+ . 'X:\\Documents\\WindowsPowerShell\\profile.ps1'\r\n+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : SecurityError: (:) [], PSSecurityException\r\n    + FullyQualifiedErrorId : UnauthorizedAccess\r\n"} 
+ERROR: 2020-10-27T20:46:02-05:00 {"source":"Extension.uncaughtException","message":"write EPIPE"} 
+SESSION: 2020-10-27T20:46:35-05:00 {"source":"LoggingProvider.initialise","message":"{\"repoKey\":null,\"repoHash\":null,\"userId\":\"eb7d37edc33cd3e6012b3043869664e285073ac23d1d4db4eec369bc3ba96cd0\",\"loggedInUserId\":null,\"userOS\":\"win32\",\"extVersion\":\"0.27.5\",\"sessionId\":\"a1f23ebc-29b2-42d3-a947-4184281f7bcf1603849559517\",\"editorVersion\":\"1.50.1\",\"multiRootWorkspace\":false,\"workspaceFoldersCount\":1,\"skippedRegWall\":false,\"fileHash\":\"79e9bb0c8e84800108e934f2212acfa8da4c6793db1dd24131cc2ea1780622ea\",\"filePath\":\"client\\\\src\\\\App.js\",\"repoUrl\":null}"} 
+ERROR: 2020-10-27T20:46:49-05:00 {"source":"MetadataProvider.getHistoricRepoCommitData","message":". : File X:\\Documents\\WindowsPowerShell\\profile.ps1 cannot be loaded because running scripts is disabled on this \r\nsystem. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.\r\nAt line:1 char:3\r\n+ . 'X:\\Documents\\WindowsPowerShell\\profile.ps1'\r\n+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n    + CategoryInfo          : SecurityError: (:) [], PSSecurityException\r\n    + FullyQualifiedErrorId : UnauthorizedAccess\r\n"} 
+ERROR: 2020-10-27T20:47:14-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:02:02-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:02:06-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:02:30-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:02:32-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:02:48-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:02:49-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:02:49-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:02:51-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:02:56-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:05:05-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:05:13-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:05:18-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:05:28-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:06:03-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:15-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:15-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:23-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:35-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:42-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:46-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:48-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:49-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:49-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:51-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:08:53-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T21:10:37-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:10:58-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:12:39-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:12:41-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:12:57-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:13:08-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:13:12-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:13:42-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:13:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:13:49-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:13:54-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:13:59-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:14:13-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:14:16-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:14:17-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:14:50-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:15:13-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:16:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:16:46-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:17:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:17:25-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:18:29-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:18:57-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:21:52-05:00 {"source":"Extension.uncaughtException","message":"Import \"~@coreui/coreui/scss/coreui.scss\" could not be resolved."} 
+ERROR: 2020-10-27T21:23:20-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:28:45-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:29:00-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:29:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:29:06-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:29:18-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:30:26-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:30:26-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:30:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:31:54-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:31:59-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:32:20-05:00 {"source":"process.on.unhandledRejection","message":{"source":"Extension.unhandledRejection","message":"JSX value should be either an expression or a quoted JSX text (33:10)"}} 
+ERROR: 2020-10-27T21:32:27-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:32:28-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:32:36-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:32:52-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:33:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:33:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:34:01-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:34:51-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:34:55-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:35:01-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:35:01-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:35:14-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:36:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:36:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:36:54-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:36:54-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:02-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:09-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:09-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:31-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:31-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:44-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:44-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:53-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:54-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:37:56-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:38:09-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:38:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:38:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:38:44-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:39:06-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:39:06-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:41:17-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:41:17-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:41:36-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:41:36-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:41:57-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:42:09-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:42:19-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:42:19-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:42:33-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:42:33-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:44:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:44:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:44:16-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:44:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:44:44-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:45:21-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:46:33-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:46:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:47:30-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:47:30-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:49:16-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:49:19-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:49:24-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:49:53-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:50:11-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:50:12-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:50:19-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:50:28-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:52:51-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:53:08-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:53:17-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:53:51-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:53:52-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:54:05-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:54:05-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:54:17-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:54:53-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:54:54-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:55:30-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:55:45-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:55:54-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:55:54-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:56:20-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:56:50-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:56:58-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:57:01-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:57:01-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:57:19-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:57:27-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:58:27-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:58:27-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:58:40-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:59:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:59:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:59:39-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:59:50-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:59:50-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T21:59:50-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:01:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:01:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:01:58-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:01:58-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:02:37-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:02:37-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:03:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:03:37-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:09:57-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:09:58-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:12:20-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:13:06-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:13:24-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:13:54-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:13:58-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:14:17-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:14:23-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:14:23-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:14:26-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:14:26-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:15:07-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:15:23-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:15:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:15:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:15:47-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:15:48-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:15:48-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:16:02-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:16:08-05:00 {"source":"process.on.unhandledRejection","message":{"source":"Extension.unhandledRejection","message":"Unexpected token, expected \",\" (59:2)"}} 
+ERROR: 2020-10-27T22:16:09-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:16:09-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:16:11-05:00 {"source":"process.on.unhandledRejection","message":{"source":"Extension.unhandledRejection","message":"Unexpected token, expected \",\" (59:2)"}} 
+ERROR: 2020-10-27T22:16:12-05:00 {"source":"process.on.unhandledRejection","message":{"source":"Extension.unhandledRejection","message":"Unexpected token, expected \",\" (59:2)"}} 
+ERROR: 2020-10-27T22:16:13-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:16:13-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:16:22-05:00 {"source":"process.on.unhandledRejection","message":{"source":"Extension.unhandledRejection","message":"Unexpected token, expected \",\" (58:2)"}} 
+ERROR: 2020-10-27T22:16:23-05:00 {"source":"process.on.unhandledRejection","message":{"source":"Extension.unhandledRejection","message":"Unexpected token, expected \",\" (56:2)"}} 
+ERROR: 2020-10-27T22:16:24-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:16:24-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:16:29-05:00 {"source":"process.on.unhandledRejection","message":{"source":"Extension.unhandledRejection","message":"Unexpected token, expected \",\" (57:2)"}} 
+ERROR: 2020-10-27T22:16:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:16:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:17:02-05:00 {"source":"process.on.unhandledRejection","message":{"source":"Extension.unhandledRejection","message":"Unexpected token, expected \",\" (56:2)"}} 
+ERROR: 2020-10-27T22:17:03-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:17:03-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:17:08-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:17:08-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:17:55-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:17:55-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:00-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:08-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:10-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:14-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:20-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:21-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:39-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:46-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:18:46-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:19:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:20:38-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:20:45-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:20:45-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:20:47-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:20:49-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:20:50-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:20:53-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:20:57-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:20:58-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:21:02-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:21:07-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:21:42-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:21:46-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:21:46-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:08-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:08-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:14-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:14-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:27-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:32-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:32-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:36-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:40-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:41-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:22:41-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:23:13-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:23:20-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:23:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:23:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:23:23-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:24:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:24:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:24:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:36-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:36-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:39-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:39-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:44-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:26:44-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:41:32-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:41:53-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:42:18-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:42:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:42:56-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:06-05:00 {"source":"Extension.uncaughtException","message":"Cannot read property 'apply' of undefined"} 
+ERROR: 2020-10-27T22:43:08-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:43:08-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:43:14-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:43:55-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:44:00-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:44:09-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:44:20-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:44:26-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:44:53-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:44:53-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:46:21-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:46:36-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:46:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:46:44-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:50:46-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:51:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:54:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T22:58:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:01:02-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:01:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:09:24-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:10:19-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:10:23-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:13:52-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:13:56-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:14:47-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:14:56-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:15:11-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:15:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:15:35-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:16:02-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:16:02-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:16:57-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:17:53-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:18:22-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:18:48-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:18:52-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:18:52-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:19:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:19:49-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:19:49-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:20:50-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:20:50-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:21:02-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:21:02-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:21:49-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:22:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:22:43-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:24:45-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:24:56-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:24:56-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:25:03-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-27T23:25:04-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:04:21-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:04:21-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:04:23-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:04:27-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:04:34-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:04:39-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:05:12-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:19:28-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:19:42-05:00 {"source":"CodeLens.computeFromGit","message":{}} 
+ERROR: 2020-10-28T00:19:47-05:00 {"source":"process.on.unhandledRejection","message":{"source":"Extension.unhandledRejection","message":"connection closed"}} 
