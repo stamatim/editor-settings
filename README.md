@@ -1,6 +1,6 @@
 # Stamati's VSCode Settings
 
-My custom user environment settings for vscode & vscodium
+My custom user environment settings for vscode
 
 ## Instructions for use
 
