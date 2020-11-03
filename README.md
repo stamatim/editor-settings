@@ -1,2 +1,2 @@
 # editor-settings
-My custom settings used in Visual Studio Code
+My custom settings used in Visual Studio Code and VSCodium
