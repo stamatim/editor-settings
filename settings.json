@@ -9,7 +9,7 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "java.configuration.checkProjectSettingsExclusions": false,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "helium-icon-theme",
     "explorer.confirmDelete": false,
     "gitlens.gitCommands.skipConfirmations": [
         "fetch:command",
