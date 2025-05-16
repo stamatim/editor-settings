@@ -1,5 +1,148 @@
 {
-    "workbench.colorTheme": "charmmono-Theme-dark",
-    "workbench.iconTheme": "charmmono-icon-theme",
-    "settings-repository.repository": "https://github.com/stamatim/editor-settings.git"
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "cSpell.userWords": [
+    "Chainable",
+    "fakerator",
+    "headlessui",
+    "iscwales",
+    "Sentrylink",
+    "STRAPI",
+    "unpermitted"
+  ],
+  "code-runner.enableAppInsights": false,
+  "continue.enableTabAutocomplete": true,
+  "csharp.suppressDotnetInstallWarning": true,
+  "cursor.cpp.disabledLanguages": [
+    "yaml"
+  ],
+  "editor.accessibilitySupport": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.fixAll.eslint": "never",
+    "source.organizeImports": "explicit"
+  },
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.minimap.autohide": true,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "eslint.alwaysShowStatus": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.codeActionsOnSave.rules": [
+    ".eslintrc.json"
+  ],
+  "eslint.format.enable": true,
+  "eslint.run": "onSave",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.factorypath": true,
+    "**/.project": true,
+    "**/.settings": true
+  },
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true,
+    "plaintext": true,
+    "yaml": false
+  },
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true
+  },
+  "helium-icon-theme.activeIconPack": "react",
+  "iceworks.materialSources": [],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "jupyter.askForKernelRestart": false,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "l13Projects.confirmDeleteProject": false,
+  "mdb.sendTelemetry": false,
+  "notebook.formatOnSave.enabled": true,
+  "prettier.configPath": "~/.vscode/extensions/prettier-prettier/recipes/prettier-config.json",
+  "react-native-tools.showUserTips": false,
+  "redhat.telemetry.enabled": false,
+  "rest-client.certificates": {},
+  "rest-client.enableTelemetry": false,
+  "search.actionsPosition": "auto",
+  "settingsSync.ignoredExtensions": [
+    "icrawl.discord-vscode"
+  ],
+  "sync.autoDownload": false,
+  "sync.autoUpload": false,
+  "sync.forceUpload": false,
+  "sync.gist": "b4a7f72320ac8a59acb52e9cc65d2ec2",
+  "sync.quietSync": false,
+  "sync.removeExtensions": true,
+  "telemetry.telemetryLevel": "off",
+  "terminal.enableAppInsights": false,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1",
+    "Q_NEW_SESSION": "1"
+  },
+  "terminal.integrated.gpuAcceleration": "off",
+  "terminal.integrated.inheritEnv": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vs-code-prettier-eslint.prettierLast": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.autoDetectColorScheme": true,
+  "window.commandCenter": true,
+  "workbench.colorTheme": "charmmono-Theme-dark",
+  "workbench.iconTheme": "charmmono-icon-theme",
+  "workbench.preferredHighContrastColorTheme": "poimandres-noitalics",
+  "workbench.preferredLightColorTheme": "charmmono-Theme-dark",
+  "workbench.startupEditor": "none",
+  "yaml.customTags": [
+    "!And",
+    "!And sequence",
+    "!If",
+    "!If sequence",
+    "!Not",
+    "!Not sequence",
+    "!Equals",
+    "!Equals sequence",
+    "!Or",
+    "!Or sequence",
+    "!FindInMap",
+    "!FindInMap sequence",
+    "!Base64",
+    "!Join",
+    "!Join sequence",
+    "!Cidr",
+    "!Ref",
+    "!Sub",
+    "!Sub sequence",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!ImportValue sequence",
+    "!Select",
+    "!Select sequence",
+    "!Split",
+    "!Split sequence"
+  ],
+  "workbench.preferredDarkColorTheme": "Bearded Theme HC Chocolate Espresso",
+  "settings-repository.repository": "https://github.com/stamatim/editor-settings.git"
 }

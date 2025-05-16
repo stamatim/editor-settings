@@ -1,0 +1,7 @@
+// Empty
+[
+  {
+    "key": "ctrl+i",
+    "command": "composerMode.agent"
+  }
+]
