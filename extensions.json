@@ -1,0 +1,12 @@
+[
+    {
+        "identifier": "Katsute.settings-repository",
+        "version": "1.0.12",
+        "enabled": true
+    },
+    {
+        "identifier": "sumangalkaran.charmmono-theme",
+        "version": "0.1.4",
+        "enabled": true
+    }
+]

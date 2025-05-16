@@ -1,0 +1,5 @@
+{
+    "workbench.colorTheme": "charmmono-Theme-dark",
+    "workbench.iconTheme": "charmmono-icon-theme",
+    "settings-repository.repository": "https://github.com/stamatim/editor-settings.git"
+}
