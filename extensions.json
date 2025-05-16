@@ -80,11 +80,6 @@
         "enabled": true
     },
     {
-        "identifier": "Shan.code-settings-sync",
-        "version": "3.4.3",
-        "enabled": true
-    },
-    {
         "identifier": "sumangalkaran.charmmono-theme",
         "version": "0.1.4",
         "enabled": true
