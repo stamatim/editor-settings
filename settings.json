@@ -54,6 +54,20 @@
   "eslint.run": "onSave",
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
+  "explorer.fileNesting.patterns": {
+    "*.db": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.s3db": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.ts": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+    "tsconfig.json": "tsconfig.*.json"
+  },
   "files.autoSave": "onFocusChange",
   "files.exclude": {
     "**/.classpath": true,
@@ -87,6 +101,7 @@
   "rest-client.certificates": {},
   "rest-client.enableTelemetry": false,
   "search.actionsPosition": "auto",
+  "settings-repository.repository": "https://github.com/stamatim/editor-settings.git",
   "settingsSync.ignoredExtensions": [
     "icrawl.discord-vscode"
   ],
@@ -111,6 +126,7 @@
   "window.commandCenter": true,
   "workbench.colorTheme": "charmmono-Theme-dark",
   "workbench.iconTheme": "charmmono-icon-theme",
+  "workbench.preferredDarkColorTheme": "Bearded Theme HC Chocolate Espresso",
   "workbench.preferredHighContrastColorTheme": "poimandres-noitalics",
   "workbench.preferredLightColorTheme": "charmmono-Theme-dark",
   "workbench.startupEditor": "none",
@@ -142,21 +158,5 @@
     "!Select sequence",
     "!Split",
     "!Split sequence"
-  ],
-  "workbench.preferredDarkColorTheme": "Bearded Theme HC Chocolate Espresso",
-  "settings-repository.repository": "https://github.com/stamatim/editor-settings.git",
-  "explorer.fileNesting.patterns": {
-    "*.ts": "${capture}.js",
-    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
-    "*.jsx": "${capture}.js",
-    "*.tsx": "${capture}.ts",
-    "tsconfig.json": "tsconfig.*.json",
-    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
-    "*.sqlite": "${capture}.${extname}-*",
-    "*.db": "${capture}.${extname}-*",
-    "*.sqlite3": "${capture}.${extname}-*",
-    "*.db3": "${capture}.${extname}-*",
-    "*.sdb": "${capture}.${extname}-*",
-    "*.s3db": "${capture}.${extname}-*"
-  }
+  ]
 }
