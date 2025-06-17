@@ -16,7 +16,7 @@
     },
     {
         "identifier": "bradlc.vscode-tailwindcss",
-        "version": "0.14.20",
+        "version": "0.14.22",
         "enabled": true
     },
     {
@@ -41,7 +41,7 @@
     },
     {
         "identifier": "MermaidChart.vscode-mermaid-chart",
-        "version": "2.3.0",
+        "version": "2.4.1",
         "enabled": true
     },
     {
