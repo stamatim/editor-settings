@@ -1,5 +1,10 @@
 [
     {
+        "identifier": "Anthropic.claude-code",
+        "version": "1.0.34",
+        "enabled": true
+    },
+    {
         "identifier": "bbenoist.Nix",
         "version": "1.0.1",
         "enabled": true
