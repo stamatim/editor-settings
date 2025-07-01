@@ -1,5 +1,10 @@
 [
     {
+        "identifier": "amazonwebservices.codewhisperer-for-command-line-companion",
+        "version": "1.12.2",
+        "enabled": true
+    },
+    {
         "identifier": "Anthropic.claude-code",
         "version": "1.0.35",
         "enabled": true
@@ -20,8 +25,18 @@
         "enabled": true
     },
     {
+        "identifier": "biomejs.biome",
+        "version": "3.0.3",
+        "enabled": true
+    },
+    {
         "identifier": "bradlc.vscode-tailwindcss",
         "version": "0.14.23",
+        "enabled": true
+    },
+    {
+        "identifier": "Catppuccin.catppuccin-vsc",
+        "version": "3.17.0",
         "enabled": true
     },
     {
