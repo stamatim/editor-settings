@@ -1,7 +1,7 @@
 [
     {
         "identifier": "amazonwebservices.codewhisperer-for-command-line-companion",
-        "version": "1.12.2",
+        "version": "1.12.3",
         "enabled": true
     },
     {
