@@ -1,7 +1,7 @@
 [
     {
         "identifier": "amazonwebservices.codewhisperer-for-command-line-companion",
-        "version": "1.12.4",
+        "version": "1.12.6",
         "enabled": true
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "identifier": "bradlc.vscode-tailwindcss",
-        "version": "0.14.24",
+        "version": "0.14.25",
         "enabled": true
     },
     {
@@ -41,7 +41,7 @@
     },
     {
         "identifier": "denoland.vscode-deno",
-        "version": "3.44.2",
+        "version": "3.45.0",
         "enabled": true
     },
     {
