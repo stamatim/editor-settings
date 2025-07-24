@@ -159,5 +159,8 @@
     "!Select sequence",
     "!Split",
     "!Split sequence"
-  ]
+  ],
+  "superdesign.openrouterApiKey": "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",
+  "superdesign.aiModelProvider": "openrouter",
+  "superdesign.aiModel": "anthropic/claude-sonnet-4"
 }
