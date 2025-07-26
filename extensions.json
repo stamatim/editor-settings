@@ -6,7 +6,7 @@
     },
     {
         "identifier": "Anthropic.claude-code",
-        "version": "1.0.43",
+        "version": "1.0.61",
         "enabled": true
     },
     {
