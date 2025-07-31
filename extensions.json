@@ -105,6 +105,11 @@
         "enabled": true
     },
     {
+        "identifier": "RaillyHugo.one-hunter",
+        "version": "1.4.0",
+        "enabled": true
+    },
+    {
         "identifier": "sumangalkaran.charmmono-theme",
         "version": "0.1.3",
         "enabled": true
