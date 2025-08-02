@@ -162,5 +162,6 @@
     "!Select sequence",
     "!Split",
     "!Split sequence"
-  ]
+  ],
+  "cursor.composer.shouldChimeAfterChatFinishes": true
 }
