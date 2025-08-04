@@ -1,7 +1,7 @@
 [
     {
         "identifier": "amazonwebservices.codewhisperer-for-command-line-companion",
-        "version": "1.13.0",
+        "version": "1.13.1",
         "enabled": true
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "identifier": "bradlc.vscode-tailwindcss",
-        "version": "0.14.25",
+        "version": "0.14.26",
         "enabled": true
     },
     {
@@ -47,6 +47,11 @@
     {
         "identifier": "esbenp.prettier-vscode",
         "version": "11.0.0",
+        "enabled": true
+    },
+    {
+        "identifier": "expo.vscode-expo-tools",
+        "version": "1.6.1",
         "enabled": true
     },
     {
@@ -107,6 +112,11 @@
     {
         "identifier": "RaillyHugo.one-hunter",
         "version": "1.4.0",
+        "enabled": true
+    },
+    {
+        "identifier": "redhat.vscode-yaml",
+        "version": "1.18.0",
         "enabled": true
     },
     {
