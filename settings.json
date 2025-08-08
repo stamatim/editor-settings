@@ -7,7 +7,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "vscode.typescript-language-features",
     "editor.formatOnSave": true
   },
   "[typescriptreact]": {
@@ -130,7 +130,7 @@
   "window.commandCenter": true,
   "workbench.colorTheme": "charmmono-Theme-dark",
   "workbench.iconTheme": "charmmono-icon-theme",
-  "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+  "workbench.preferredDarkColorTheme": "Pinky Promise Dark",
   "workbench.preferredHighContrastColorTheme": "poimandres-noitalics",
   "workbench.preferredLightColorTheme": "Catppuccin Mocha",
   "workbench.startupEditor": "none",

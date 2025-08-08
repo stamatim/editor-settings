@@ -41,7 +41,7 @@
     },
     {
         "identifier": "denoland.vscode-deno",
-        "version": "3.45.1",
+        "version": "3.45.2",
         "enabled": true
     },
     {
@@ -127,6 +127,11 @@
     {
         "identifier": "unifiedjs.vscode-mdx",
         "version": "1.8.14",
+        "enabled": true
+    },
+    {
+        "identifier": "ZubairIbnZamir.pinky-promise-theme",
+        "version": "1.0.6",
         "enabled": true
     }
 ]
