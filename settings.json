@@ -26,6 +26,7 @@
   "code-runner.enableAppInsights": false,
   "continue.enableTabAutocomplete": true,
   "csharp.suppressDotnetInstallWarning": true,
+  "cursor.composer.shouldChimeAfterChatFinishes": true,
   "cursor.cpp.disabledLanguages": [
     "yaml"
   ],
@@ -162,6 +163,5 @@
     "!Select sequence",
     "!Split",
     "!Split sequence"
-  ],
-  "cursor.composer.shouldChimeAfterChatFinishes": true
+  ]
 }
