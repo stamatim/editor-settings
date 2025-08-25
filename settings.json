@@ -133,7 +133,6 @@
   "workbench.iconTheme": "charmmono-icon-theme",
   "workbench.preferredDarkColorTheme": "Pinky Promise Dark",
   "workbench.preferredHighContrastColorTheme": "poimandres-noitalics",
-  "workbench.preferredLightColorTheme": "Catppuccin Mocha",
   "workbench.startupEditor": "none",
   "yaml.customTags": [
     "!And",
@@ -163,5 +162,7 @@
     "!Select sequence",
     "!Split",
     "!Split sequence"
-  ]
+  ],
+  "terminal.external.osxExec": "Ghostty.app",
+  "workbench.preferredLightColorTheme": "Catppuccin Frappé"
 }
