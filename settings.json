@@ -118,6 +118,7 @@
   "sync.removeExtensions": true,
   "telemetry.telemetryLevel": "off",
   "terminal.enableAppInsights": false,
+  "terminal.external.osxExec": "Ghostty.app",
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1",
     "Q_NEW_SESSION": "1"
@@ -131,8 +132,9 @@
   "window.commandCenter": true,
   "workbench.colorTheme": "charmmono-Theme-dark",
   "workbench.iconTheme": "charmmono-icon-theme",
-  "workbench.preferredDarkColorTheme": "Pinky Promise Dark",
+  "workbench.preferredDarkColorTheme": "Gruvbox Dark Hard",
   "workbench.preferredHighContrastColorTheme": "poimandres-noitalics",
+  "workbench.preferredLightColorTheme": "Catppuccin Frappé",
   "workbench.startupEditor": "none",
   "yaml.customTags": [
     "!And",
@@ -162,7 +164,5 @@
     "!Select sequence",
     "!Split",
     "!Split sequence"
-  ],
-  "terminal.external.osxExec": "Ghostty.app",
-  "workbench.preferredLightColorTheme": "Catppuccin Frappé"
+  ]
 }
