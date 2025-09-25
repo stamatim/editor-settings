@@ -1,7 +1,7 @@
 [
     {
         "identifier": "amazonwebservices.codewhisperer-for-command-line-companion",
-        "version": "1.15.0",
+        "version": "1.16.2",
         "enabled": true
     },
     {
@@ -62,11 +62,6 @@
     {
         "identifier": "GitHub.remotehub",
         "version": "0.64.0",
-        "enabled": true
-    },
-    {
-        "identifier": "iganbold.superdesign",
-        "version": "0.0.11",
         "enabled": true
     },
     {
