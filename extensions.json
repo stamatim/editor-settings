@@ -125,6 +125,11 @@
         "enabled": true
     },
     {
+        "identifier": "sst-dev.opencode",
+        "version": "0.0.9",
+        "enabled": true
+    },
+    {
         "identifier": "sumangalkaran.charmmono-theme",
         "version": "0.1.3",
         "enabled": true
