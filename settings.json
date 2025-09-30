@@ -1,4 +1,13 @@
 {
+  "[dockercompose]": {
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "redhat.vscode-yaml",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true
@@ -134,6 +143,7 @@
   "workbench.iconTheme": "charmmono-icon-theme",
   "workbench.preferredDarkColorTheme": "Gruvbox Dark Hard",
   "workbench.preferredHighContrastColorTheme": "poimandres-noitalics",
+  "workbench.preferredLightColorTheme": "Bearded Theme Arc",
   "workbench.startupEditor": "none",
   "yaml.customTags": [
     "!And",
@@ -163,15 +173,5 @@
     "!Select sequence",
     "!Split",
     "!Split sequence"
-  ],
-  "workbench.preferredLightColorTheme": "Bearded Theme Arc",
-  "[dockercompose]": {
-    "editor.insertSpaces": true,
-    "editor.tabSize": 2,
-    "editor.autoIndent": "advanced",
-    "editor.defaultFormatter": "redhat.vscode-yaml"
-  },
-  "[github-actions-workflow]": {
-    "editor.defaultFormatter": "redhat.vscode-yaml"
-  }
+  ]
 }
