@@ -1,7 +1,7 @@
 [
     {
         "identifier": "amazonwebservices.codewhisperer-for-command-line-companion",
-        "version": "1.17.0",
+        "version": "1.17.1",
         "enabled": true
     },
     {
@@ -36,7 +36,7 @@
     },
     {
         "identifier": "bradlc.vscode-tailwindcss",
-        "version": "0.14.26",
+        "version": "0.14.28",
         "enabled": true
     },
     {
@@ -81,7 +81,7 @@
     },
     {
         "identifier": "ms-python.debugpy",
-        "version": "2025.10.0",
+        "version": "2025.14.0",
         "enabled": true
     },
     {
@@ -121,7 +121,7 @@
     },
     {
         "identifier": "redhat.vscode-yaml",
-        "version": "1.19.0",
+        "version": "1.19.1",
         "enabled": true
     },
     {
