@@ -41,12 +41,12 @@
     },
     {
         "identifier": "Catppuccin.catppuccin-vsc",
-        "version": "3.17.0",
+        "version": "3.18.1",
         "enabled": true
     },
     {
         "identifier": "denoland.vscode-deno",
-        "version": "3.45.2",
+        "version": "3.46.0",
         "enabled": true
     },
     {
@@ -81,7 +81,7 @@
     },
     {
         "identifier": "ms-python.debugpy",
-        "version": "2025.14.0",
+        "version": "2025.14.1",
         "enabled": true
     },
     {
