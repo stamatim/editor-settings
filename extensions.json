@@ -1,7 +1,7 @@
 [
     {
         "identifier": "amazonwebservices.codewhisperer-for-command-line-companion",
-        "version": "1.18.1",
+        "version": "1.19.7",
         "enabled": true
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "identifier": "anysphere.cursorpyright",
-        "version": "1.0.9",
+        "version": "1.0.10",
         "enabled": true
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "identifier": "biomejs.biome",
-        "version": "3.2.0",
+        "version": "3.3.0",
         "enabled": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
         "identifier": "denoland.vscode-deno",
-        "version": "3.46.0",
+        "version": "3.46.1",
         "enabled": true
     },
     {
@@ -126,7 +126,7 @@
     },
     {
         "identifier": "sst-dev.opencode",
-        "version": "0.0.9",
+        "version": "0.0.12",
         "enabled": true
     },
     {
@@ -136,12 +136,12 @@
     },
     {
         "identifier": "thang-nm.flow-icons",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "enabled": true
     },
     {
         "identifier": "unifiedjs.vscode-mdx",
-        "version": "1.8.14",
+        "version": "1.8.17",
         "enabled": true
     },
     {
