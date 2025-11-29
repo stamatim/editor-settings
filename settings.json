@@ -141,7 +141,7 @@
   "window.commandCenter": true,
   "workbench.colorTheme": "charmmono-Theme-dark",
   "workbench.iconTheme": "charmmono-icon-theme",
-  "workbench.preferredDarkColorTheme": "Gruvbox Dark Hard",
+  "workbench.preferredDarkColorTheme": "charmmono-Theme-dark",
   "workbench.preferredHighContrastColorTheme": "poimandres-noitalics",
   "workbench.preferredLightColorTheme": "Bearded Theme Arc",
   "workbench.startupEditor": "none",
