@@ -46,17 +46,17 @@
     },
     {
         "identifier": "denoland.vscode-deno",
-        "version": "3.46.1",
+        "version": "3.47.0",
         "enabled": true
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "11.0.0",
+        "version": "11.0.2",
         "enabled": true
     },
     {
         "identifier": "expo.vscode-expo-tools",
-        "version": "1.6.1",
+        "version": "1.6.2",
         "enabled": true
     },
     {
@@ -81,7 +81,7 @@
     },
     {
         "identifier": "ms-python.debugpy",
-        "version": "2025.14.1",
+        "version": "2025.18.0",
         "enabled": true
     },
     {
