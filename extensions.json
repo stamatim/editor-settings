@@ -51,7 +51,7 @@
     },
     {
         "identifier": "esbenp.prettier-vscode",
-        "version": "11.0.2",
+        "version": "12.3.0",
         "enabled": true
     },
     {
@@ -76,7 +76,7 @@
     },
     {
         "identifier": "MermaidChart.vscode-mermaid-chart",
-        "version": "2.4.1",
+        "version": "2.5.7",
         "enabled": true
     },
     {
