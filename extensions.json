@@ -46,7 +46,7 @@
     },
     {
         "identifier": "denoland.vscode-deno",
-        "version": "3.50.0",
+        "version": "3.51.0",
         "enabled": true
     },
     {
@@ -76,7 +76,7 @@
     },
     {
         "identifier": "MermaidChart.vscode-mermaid-chart",
-        "version": "2.6.1",
+        "version": "2.6.2",
         "enabled": true
     },
     {
